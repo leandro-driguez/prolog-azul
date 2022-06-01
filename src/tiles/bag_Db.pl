@@ -1,0 +1,2 @@
+
+:- dynamic bag/2.
